@@ -1,7 +1,7 @@
 # CSC400---Data-Structures-Algorithms
 Data Structures and Algorithms will focus on understanding key concepts related to data structures and the analysis of algorithms. The topics presented in this course will range from introducing abstract data types (ADTs) such as bags, stacks, queues, deques, and priority queues, to further analyzing the efficiency associated with the ADTS and other algorithms.
 
-## Module 1 Critial Thinking Assignment - Java Bag Data Structure
+## Module 2 Critial Thinking Assignment - Java Bag Data Structure
 1. Design a Java class called Bag that implements the bag data structure.
 
 2. The Bag class should have the following methods:
