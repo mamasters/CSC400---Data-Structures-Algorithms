@@ -20,3 +20,12 @@ Data Structures and Algorithms will focus on understanding key concepts related 
   - Test the contains method for the removed element.
   - Test the count method for the removed element.
   - Comment your code appropriately to explain the functionality of each method
+
+## Module 4 Critial Thinking Assignment
+Implement a postfix calculator in Java that evaluates arithmetic expressions in postfix notation. The program should support the basic arithmetic operations:
+  - addition (+)
+  - subtraction (-)
+  - multiplication (*)
+  - two division operations:  (/ and %)
+  - Additionally, the program should handle operands and display the final result.
+  - Your program should also be able to read a text file containing several expressions. Implement a function in your program to read each expression and evaluate it.
