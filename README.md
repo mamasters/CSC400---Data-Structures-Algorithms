@@ -21,7 +21,7 @@ Data Structures and Algorithms will focus on understanding key concepts related 
   - Test the count method for the removed element.
   - Comment your code appropriately to explain the functionality of each method
 
-## Module 4 Critial Thinking Assignment
+## Module 4 Critial Thinking Assignment - Postifx Calculator
 Implement a postfix calculator in Java that evaluates arithmetic expressions in postfix notation. The program should support the basic arithmetic operations:
   - addition (+)
   - subtraction (-)
