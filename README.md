@@ -29,3 +29,9 @@ Implement a postfix calculator in Java that evaluates arithmetic expressions in 
   - two division operations:  (/ and %)
   - Additionally, the program should handle operands and display the final result.
   - Your program should also be able to read a text file containing several expressions. Implement a function in your program to read each expression and evaluate it.
+
+## Module 5 Critical Thinking Assignment - Radix Sort Algorithm
+  - Implement the radix sort algorithm in Java.
+  - Analyze your algorithm in Big-Oh notation and provide the appropriate analysis.
+  - Analyze the algorithm by documenting the steps taken when radix sort sorts the following array of Integer objects: 783 99 472 182 264 543 356 295 692 491 94
+  - Analyze the Big-O of your algorithm.
